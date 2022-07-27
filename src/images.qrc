@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images" >
+        <file>res/arrowdown.png</file>
+        <file>res/arrowdown_pressed.png</file>
+        <file>res/arrowup.png</file>
+        <file>res/arrowup_pressed.png</file>
+        <file>res/checkbox_checked.png</file>
+        <file>res/checkbox_checked_pressed.png</file>
+        <file>res/checkbox_unchecked.png</file>
+        <file>res/checkbox_unchecked_pressed.png</file>
+        <file>res/radiobutton_checked.png</file>
+        <file>res/radiobutton_checked_pressed.png</file>
+        <file>res/radiobutton_unchecked.png</file>
+        <file>res/radiobutton_unchecked_pressed.png</file>
+        <file>res/spinboxdown.png</file>
+        <file>res/spinboxup.png</file>
+    </qresource>
+</RCC>
